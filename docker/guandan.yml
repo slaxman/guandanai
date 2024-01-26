@@ -1,0 +1,9 @@
+name: guandan
+dependencies:
+  - python=3.11
+  - redis
+  - pyzmq
+  - ws4py
+  - pickle
+  - multiprocess
+  - uuid
